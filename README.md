@@ -1,2 +1,3 @@
 # varshini
-This is my first git hub
+This is my firstv git Repository
+Author-Varshini
